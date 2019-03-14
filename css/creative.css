@@ -13,6 +13,10 @@ body {
     font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
+i.fab, i.fas {
+	font-weight: normal;
+}
+
 a {
     color: #F05F40;
     -webkit-transition: all 0.2s;
