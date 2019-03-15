@@ -13,8 +13,8 @@ body {
     font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
-i.fab, i.fas {
-	font-weight: normal;
+.list-inline-item {
+    margin-top: 0.5rem;
 }
 
 a {
@@ -188,7 +188,6 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 .btn {
-    font-weight: 700;
     text-transform: uppercase;
     border: none;
     border-radius: 300px;
